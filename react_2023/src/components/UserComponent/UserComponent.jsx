@@ -1,7 +1,7 @@
 export const UserComponent = () => {
     return (
         <div>
-            User
+            Users
         </div>
     )
 }
